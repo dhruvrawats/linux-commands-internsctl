@@ -1,1 +1,1 @@
-# This repository contains the implemntation the problem statement mentioned in Tenchnical-task.
+# This repository contains the implementation the problem statement mentioned in Tenchnical-task.
